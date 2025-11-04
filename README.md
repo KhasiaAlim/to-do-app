@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The project link: [To-Do List](https://to-do-list-khasia.netlify.app/)
+The project link: [To-Do List](https://simple-to-do-list-k.netlify.app/)
 
 ## Available Scripts
 
